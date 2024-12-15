@@ -32,6 +32,8 @@ composer require rnr1721/multilingual-laravel
 - View variables for language data
 - RTL language support
 
+Middleware: No need to manually manage language detection; LaravelLanguageMiddleware automatically switches the current language based on the URL.
+
 ## Configuration:
 
 Publish the configuration file:

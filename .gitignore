@@ -1,0 +1,5 @@
+/nbproject
+/.vscode
+/vendor
+/composer.lock
+/.phpunit.cache
